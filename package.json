@@ -1,6 +1,5 @@
 {
-  "homepage" :"https://github.com/sreesoftcareer/reactWebsite.git",
-  "name": "portfolio-app",
+  "homepage" :"https://github.com/sreesoftcareer/RestaurantWebsite.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
