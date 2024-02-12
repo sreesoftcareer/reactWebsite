@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sreesoftcareer/reactWebsite.git/static/css/main.211c8660.css",
-    "main.js": "/sreesoftcareer/reactWebsite.git/static/js/main.a1b8a909.js",
-    "static/js/787.f91f1cc7.chunk.js": "/sreesoftcareer/reactWebsite.git/static/js/787.f91f1cc7.chunk.js",
-    "static/media/drink (1).jpg": "/sreesoftcareer/reactWebsite.git/static/media/drink (1).4386ae2c4865115c5f2a.jpg",
-    "static/media/chefImg (1).jpg": "/sreesoftcareer/reactWebsite.git/static/media/chefImg (1).04bee1178ada80e01721.jpg",
-    "static/media/Gallery (4).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (4).fe27749c49b936b6b360.jpg",
-    "static/media/BannerImg.jpg": "/sreesoftcareer/reactWebsite.git/static/media/BannerImg.e27b5f5c65846156c03b.jpg",
-    "static/media/MenuList.jpg": "/sreesoftcareer/reactWebsite.git/static/media/MenuList.1eef1b408f130f47d9db.jpg",
-    "static/media/Gallery (3).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (3).37e643a59879b4fd1073.jpg",
-    "static/media/Gallery (6).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (6).48c790156c22364dc95e.jpg",
-    "static/media/chefImg (2).jpg": "/sreesoftcareer/reactWebsite.git/static/media/chefImg (2).dbdc45cea39293ed97c4.jpg",
-    "static/media/Gallery (1).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (1).1675e8529d987f6b9591.jpg",
-    "static/media/Gallery (8).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (8).b17c2bd49fcd5c0a8939.jpg",
-    "static/media/Gallery (7).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (7).3412d881ecd33c272ebd.jpg",
-    "static/media/aboutlist.jpg": "/sreesoftcareer/reactWebsite.git/static/media/aboutlist.58a05dfaac5e9819d6df.jpg",
-    "static/media/Gallery (2).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (2).e7b89dd3577be23ba649.jpg",
-    "static/media/Gallery (5).jpg": "/sreesoftcareer/reactWebsite.git/static/media/Gallery (5).0cfdec94623478f63085.jpg",
-    "index.html": "/sreesoftcareer/reactWebsite.git/index.html",
-    "main.211c8660.css.map": "/sreesoftcareer/reactWebsite.git/static/css/main.211c8660.css.map",
-    "main.a1b8a909.js.map": "/sreesoftcareer/reactWebsite.git/static/js/main.a1b8a909.js.map",
-    "787.f91f1cc7.chunk.js.map": "/sreesoftcareer/reactWebsite.git/static/js/787.f91f1cc7.chunk.js.map"
+    "main.css": "/myFirstProject/static/css/main.69bc699c.css",
+    "main.js": "/myFirstProject/static/js/main.e856e678.js",
+    "static/js/787.fa9cb370.chunk.js": "/myFirstProject/static/js/787.fa9cb370.chunk.js",
+    "static/media/drink (1).jpg": "/myFirstProject/static/media/drink (1).4386ae2c4865115c5f2a.jpg",
+    "static/media/chefImg (1).jpg": "/myFirstProject/static/media/chefImg (1).04bee1178ada80e01721.jpg",
+    "static/media/Gallery (4).jpg": "/myFirstProject/static/media/Gallery (4).fe27749c49b936b6b360.jpg",
+    "static/media/BannerImg.jpg": "/myFirstProject/static/media/BannerImg.e27b5f5c65846156c03b.jpg",
+    "static/media/MenuList.jpg": "/myFirstProject/static/media/MenuList.1eef1b408f130f47d9db.jpg",
+    "static/media/Gallery (3).jpg": "/myFirstProject/static/media/Gallery (3).37e643a59879b4fd1073.jpg",
+    "static/media/Gallery (6).jpg": "/myFirstProject/static/media/Gallery (6).48c790156c22364dc95e.jpg",
+    "static/media/chefImg (2).jpg": "/myFirstProject/static/media/chefImg (2).dbdc45cea39293ed97c4.jpg",
+    "static/media/Gallery (1).jpg": "/myFirstProject/static/media/Gallery (1).1675e8529d987f6b9591.jpg",
+    "static/media/Gallery (8).jpg": "/myFirstProject/static/media/Gallery (8).b17c2bd49fcd5c0a8939.jpg",
+    "static/media/Gallery (7).jpg": "/myFirstProject/static/media/Gallery (7).3412d881ecd33c272ebd.jpg",
+    "static/media/aboutlist.jpg": "/myFirstProject/static/media/aboutlist.58a05dfaac5e9819d6df.jpg",
+    "static/media/Gallery (2).jpg": "/myFirstProject/static/media/Gallery (2).e7b89dd3577be23ba649.jpg",
+    "static/media/Gallery (5).jpg": "/myFirstProject/static/media/Gallery (5).0cfdec94623478f63085.jpg",
+    "index.html": "/myFirstProject/index.html",
+    "main.69bc699c.css.map": "/myFirstProject/static/css/main.69bc699c.css.map",
+    "main.e856e678.js.map": "/myFirstProject/static/js/main.e856e678.js.map",
+    "787.fa9cb370.chunk.js.map": "/myFirstProject/static/js/787.fa9cb370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.211c8660.css",
-    "static/js/main.a1b8a909.js"
+    "static/css/main.69bc699c.css",
+    "static/js/main.e856e678.js"
   ]
 }
